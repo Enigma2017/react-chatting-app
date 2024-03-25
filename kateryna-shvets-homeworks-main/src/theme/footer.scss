@@ -1,0 +1,12 @@
+@import 'palette';
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 45px 0; 
+    margin-top: 70px;
+    
+    p {
+        color: rgb(110,118,125);
+    }
+}
